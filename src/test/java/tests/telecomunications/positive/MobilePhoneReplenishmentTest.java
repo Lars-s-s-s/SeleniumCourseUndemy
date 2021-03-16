@@ -14,5 +14,5 @@ public class MobilePhoneReplenishmentTest extends BaseTest {
         basePage.goToUrl(MOBILE_PAYMENT_URL);
         mobilePhoneReplenishmentPage.selectCardFromWallet();
         basePage.isAutWidgetPresent();
-    }
+    }///
 }
